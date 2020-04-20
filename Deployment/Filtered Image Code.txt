@@ -1,0 +1,49 @@
+PS C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code> npm i
+audited 518 packages in 9.581s
+found 6 vulnerabilities (5 low, 1 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+PS C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code> npm run dev                      
+> udacity-c2-image-filter@1.0.0 dev C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code
+> ts-node-dev --respawn --transpileOnly ./src/server.ts
+
+Using ts-node version 8.3.0, typescript version 3.5.3
+server running http://localhost:8082
+press CTRL+C to stop server
+[INFO] 18:39:52 Restarting: C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code\src\server.ts has been modified
+Using ts-node version 8.3.0, typescript version 3.5.3
+server running http://localhost:8082
+press CTRL+C to stop server
+Terminate batch job (Y/N)? y
+PS C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code> npm run dev
+
+> udacity-c2-image-filter@1.0.0 dev C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code
+> ts-node-dev --respawn --transpileOnly ./src/server.ts
+
+Using ts-node version 8.3.0, typescript version 3.5.3
+server running http://localhost:8082
+press CTRL+C to stop server
+[INFO] 18:53:10 Restarting: C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code\src\server.ts has been modified
+Using ts-node version 8.3.0, typescript version 3.5.3
+server running http://localhost:8082
+press CTRL+C to stop server
+[INFO] 18:55:56 Restarting: C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code\src\server.ts has been modified
+Using ts-node version 8.3.0, typescript version 3.5.3
+server running http://localhost:8082
+press CTRL+C to stop server
+Terminate batch job (Y/N)? y
+PS C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code> npm run dev
+
+> udacity-c2-image-filter@1.0.0 dev C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code
+> ts-node-dev --respawn --transpileOnly ./src/server.ts
+
+Using ts-node version 8.3.0, typescript version 3.5.3
+server running http://localhost:8082
+press CTRL+C to stop server
+[INFO] 18:58:08 Restarting: C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code\src\server.ts has been modified
+Using ts-node version 8.3.0, typescript version 3.5.3
+server running http://localhost:8082
+press CTRL+C to stop server
+[INFO] 19:00:00 Restarting: C:\Users\davon\Desktop\cloud-developer\course-02\project\image-filter-starter-code\src\server.ts has been modified
+Using ts-node version 8.3.0, typescript version 3.5.3
+server running http://localhost:8082
+press CTRL+C to stop server
